@@ -32,3 +32,13 @@ A pared down version of Tableau BI software can found in various free versions. 
 ## Next Steps
 
 Explore the Statcan API using python and/or R to see if there are any gains over the methods used above
+
+
+## RSS Feeds for Statcan 
+
+Stats Canada provides automated RSS feeds to a large range of topics.   This is potentially a way to stay on top of what’s happening with new data.   
+Download Feedly on  your phone and desktop.     
+Add feeds, for example https://www150.statcan.gc.ca/n1/en/rss/dai-quo/14-eng.atom.   
+You can be alerted across any device anytime there’s an update. 
+All feeds are here:  https://www.statcan.gc.ca/eng/sc/rss
+You’ll need to sign in using your Google Account or whatever, but the benefit is that it’s easy to bookmark articles across devices and you can share links via text, email.  Tons of features.
